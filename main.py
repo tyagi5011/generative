@@ -16,7 +16,7 @@ from langchain.document_loaders import AzureBlobStorageContainerLoader
 
 
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = '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'
 os.environ['AZURE_COGNITIVE_SEARCH_SERVICE_NAME'] = 'learninglangchain'
 os.environ['AZURE_COGNITIVE_SEARCH_INDEX_NAME'] = 'langchain'
 os.environ['AZURE_COGNITIVE_SEARCH_API_KEY'] = 'iQ2SiK3rZF0xkC98z3GavrVsDoRJUSlHkgijLceVgLAzSeBFXg0N'
